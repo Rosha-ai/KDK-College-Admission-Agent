@@ -1,0 +1,64 @@
+[SECTION: COLLEGE_PROFILE]
+College Name: Karmavir Dadasaheb Kannamwar College of Engineering, Nagpur
+Popularly Known As: KDKCE, KDK College of Engineering, KDK Nagpur
+Academic Year: 2026-27
+Campus Address: Great Nag Road, Nandanvan, Nagpur, Maharashtra – 440024
+Affiliation and Accreditation: Approved by AICTE New Delhi, Directorate of Technical Education (DTE) Maharashtra, and permanently affiliated to Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU). Accredited by NAAC and NBA.
+Surroundings and Location: Situated in the central educational hub of Nandanvan, Nagpur. The campus is well-connected via Nagpur Metro, city buses, and auto-rickshaws, and is located 6 km from Nagpur Railway Station and 9 km from Dr. Babasaheb Ambedkar International Airport.
+
+[SECTION: BRANCHES_AND_INTAKE]
+Available Undergraduate B.Tech / B.E. Branches and Seat Capacity for Academic Year 2026-27:
+1. Computer Science and Engineering (CSE): 180 seats
+2. Artificial Intelligence & Data Science (AI & DS): 90 seats
+3. Information Technology (IT): 60 seats
+4. Electronics & Telecommunication Engineering (ETC): 120 seats
+5. Electrical Engineering (EE): 90 seats
+6. Civil Engineering (CE): 90 seats
+7. Mechanical Engineering (ME): 60 seats
+Total First Year Engineering B.Tech Intake: 690 seats.
+
+[SECTION: ELIGIBILITY_CRITERIA]
+First Year B.Tech Eligibility Criteria after 12th (HSC):
+1. Candidate must be an Indian National.
+2. Passed HSC (10+2 / 12th standard) examination of Maharashtra State Board of Secondary and Higher Secondary Education or its equivalent examination.
+3. Compulsory subjects: Physics and Mathematics along with one of Chemistry, Biotechnology, Biology, Computer Science, Information Technology, Informatics Practices, Agriculture, Engineering Graphics, or Business Studies.
+4. Marks requirement: Obtained at least 45% marks (at least 40% marks in case of Backward Class categories, Economically Weaker Section (EWS), and Persons with Disability candidates belonging to Maharashtra State only) in the above subjects taken together.
+5. Entrance Exam Requirement: Must have obtained a non-zero positive score in MHT-CET 2026 or JEE Main Paper-I. CET or JEE is mandatory for State CAP and All India seats.
+
+[SECTION: ADMISSION_PROCESS]
+Admission Process after 12th (HSC):
+Step 1: Registration on the official Maharashtra State CET Cell portal (mahacet.org) for Centralized Admission Process (CAP).
+Step 2: Document Verification and Confirmation at Scrutiny Center (E-Scrutiny or Physical Scrutiny).
+Step 3: Display of Provisional and Final Merit List by State CET Cell.
+Step 4: Online Option Form submission (choice filling of colleges and branches, choosing KDKCE Choice Codes).
+Step 5: Seat Allotment in CAP Round I, II, and III.
+Step 6: Seat acceptance payment and reporting to the allotted institute (KDKCE, Nagpur) with original documents and fees to confirm admission.
+Institutional / Management Quota Seats: Conducted at the college level strictly as per DTE/CET Cell merit norms.
+
+[SECTION: FEES_STRUCTURE]
+Annual Fee Structure for Academic Year 2026-27 (Approved by Fees Regulating Authority - FRA Maharashtra):
+1. Open / General Category: Approximately Rs. 98,000 to Rs. 1,08,000 per year (Tuition Fee + Development Fee + University exam & other charges).
+2. OBC / EBC / EWS Category: Approximately 50% Tuition Fee concession (Student pays around Rs. 54,000 to Rs. 60,000 per year).
+3. VJNT / SBC / TFWS Category: Tuition Fee is 100% exempted; student pays only Development Fee and miscellaneous charges (Approximately Rs. 12,000 to Rs. 16,000 per year).
+4. SC / ST Category: 100% tuition and development fee exemption under Government of Maharashtra scholarship schemes (Student pays approximately Rs. 2,500 to Rs. 4,500 exam/processing charges).
+Hostel Fees: Separate boys and girls hostel facility is available near campus with fees ranging from Rs. 40,000 to Rs. 55,000 per year including mess/accommodation.
+
+[SECTION: DOCUMENTS_REQUIRED]
+Mandatory Documents Required at the Time of Admission:
+1. MHT-CET 2026 Scorecard / JEE Main 2026 Paper-I Scorecard.
+2. 12th (HSC) Marksheet.
+3. 10th (SSC) Marksheet.
+4. College Leaving Certificate (Transfer Certificate / LC).
+5. Indian Nationality Certificate and Domicile Certificate of Maharashtra.
+6. Caste Certificate, Caste Validity Certificate, and Non-Creamy Layer Certificate (valid up to 31st March 2027) for OBC, VJ/DT-NT, SBC categories.
+7. Income Certificate of parents issued by Competent Authority (Tahsildar) for scholarship and EWS benefits.
+8. EWS Certificate (Eligibility Certificate for Economically Weaker Section) if applicable.
+9. Aadhaar Card copy, Bank Passbook linked with Aadhaar, and 4 Passport-size photographs.
+10. Migration Certificate and Gap Certificate (in original stamp paper, if passed 12th prior to 2026).
+
+[SECTION: CAMPUS_FACILITIES_AND_PLACEMENTS]
+Campus, Teaching, and Placements:
+1. Teaching & Faculty: Experienced and doctoral faculty with modern outcome-based education (OBE) pedagogy, smart digital classrooms, high-speed Wi-Fi campus, and advanced computing laboratories.
+2. Campus: 10+ acre green campus with centralized digital library, seminar halls, sports complex, indoor games, gymnasium, and cafeteria.
+3. Training and Placement Cell: High placement records with top recruiters including TCS, Infosys, Cognizant, Wipro, Capgemini, Tech Mahindra, L&T Infotech, Persistent Systems, Hexaware, and Byju's.
+4. Average salary package ranges from 3.5 LPA to 5.5 LPA, with the highest package reaching 12 to 18 LPA for top software and core engineering profiles.
